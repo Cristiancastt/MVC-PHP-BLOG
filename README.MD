@@ -47,6 +47,3 @@ Este proyecto se centra en el desarrollo web y la programación en PHP. Aquí en
 ![Detalles Pokemon](./images/descripcion.png)
 - El botón "Más información" permitirá obtener un detalle de los campos del Pokémon, mostrados en una pantalla con información detallada sobre ese Pokémon.
 
-Este proyecto proporciona una estructura inicial para la creación y gestión de Pokémon en un juego, con una interfaz web amigable para el usuario. La base de datos "roleplay" es esencial para almacenar la información de los Pokémon y facilitar su gestión.
-
-¡Diviértete desarrollando este proyecto de desarrollo web y programación en PHP!
