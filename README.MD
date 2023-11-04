@@ -47,3 +47,14 @@ Este proyecto se centra en el desarrollo web y la programación en PHP. Aquí en
 ![Detalles Pokemon](./images/descripcion.png)
 - El botón "Más información" permitirá obtener un detalle de los campos del Pokémon, mostrados en una pantalla con información detallada sobre ese Pokémon.
 
+### 6. Diagrama de sequencia
+![diagrama](./images/diagrama.png)
+- En este diagrama:
+
+    "Usuario" representa al usuario que solicita crear un Pokémon.
+    "Controlador" es la parte del sistema que recibe la solicitud del usuario y coordina la interacción entre el modelo y la vista.
+    "Modelo" es la parte del sistema que maneja la lógica de negocio y la interacción con la base de datos.
+    "Vista" es la parte del sistema que muestra un mensaje de confirmación al usuario.
+    "BaseDeDatos" representa la base de datos donde se almacenan los datos de los Pokémon.
+    "Sesión" se encarga de gestionar las sesiones de usuario en PHP y almacenar datos de usuario.
+
